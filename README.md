@@ -1,7 +1,7 @@
  MTN UPGRADE DATA(IP WEEK 3)
 
 #### By Nelson Muteti
-     (https://github.com/Nelson-Muteti)
+     <https://github.com/Nelson-Muteti>
 
 ## PROBLEM STATEMENT
 
