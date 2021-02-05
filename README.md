@@ -1,36 +1,37 @@
 # MTN DATA PROBLEM (IP WEEK 3)
-#### {Brief description of application}, {Submitted on 05/02/2021}
+
 #### -By **Nelson Muteti**
-     -https://github.com/Nelson-Muteti/Trial-1.git
+     https://github.com/Nelson-Muteti/Trial-1.git
 ## PROBLEM STATEMENT
--This project dealt with an MTN data problem that involved an upgrade to
+*This project dealt with an MTN data problem that involved an upgrade to
 the infrastructure sytems.
 
--Tasked with coming up with a data based approach to the recommedation system
+*Tasked with coming up with a data based approach to the recommedation system
 
--on inorder to identify high priority areas, services and customers so that MTN would prioritise them in their 
+in inorder to identify high priority areas, services and customers so that MTN would prioritise them in their 
 
--upcoming upgrade.
+upcoming upgrade.
 
--This project details in length how I approached this problem and came up with several recommendations based on
+*This project details in length how I approached this problem and came up with several recommendations based on
 
--the data. 
+the data. 
 
--The project goes from Data Loading, Data Cleaning and understanding while exclusion and inclusion procedures are 
+*The project goes from Data Loading, Data Cleaning and understanding while exclusion and inclusion procedures are 
 
--outlined. I use the CRISP DM Methodology to approach the project.
+outlined. I use the CRISP DM Methodology to approach the project.
 
--The CRISP DM methodology helps break down the problem statement  into bits which are then 
+*The CRISP DM methodology helps break down the problem statement  into bits which are then 
 
--relatively easier to approach.
+ relatively easier to approach.
  
 
 ## Technologies Used
 * Used Google Colab as my work environment.
-*Google colab is a great tool to implement the Data Science project since it is
-*easier to link with resources and platforms such as GITHUB.
+  -Google colab is a great tool to implement the Data Science project since it is
+   easier to link with resources and platforms such as GITHUB.
 ## Support
-*Contact Nelson Muteti at nelsonmuteti012@gmail.com for any clarification.
+*Contact Nelson Muteti : nelsonmuteti012@gmail.com for any clarification.
+
 *In addition, you may feel free to fork this project and make useful collaborations.
 
 ## License info
